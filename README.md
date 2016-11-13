@@ -16,4 +16,4 @@ The files will be accessible at `<IP Address>:4000` over the network
 
 # Screenshots
 
-![Alt text](/assets/img/ss.png?raw=true "Screenshot File Browser")
+![Alt text](/assets/img/ss-min.png?raw=true "Screenshot File Browser")
