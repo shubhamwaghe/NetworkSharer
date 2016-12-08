@@ -3,7 +3,7 @@
 $dir = "files";
 
 // Run the recursive function 
-// Testing
+// Testing git ssh
 $response = scan($dir);
 
 
