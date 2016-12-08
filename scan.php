@@ -3,7 +3,7 @@
 $dir = "files";
 
 // Run the recursive function 
-
+// Testing
 $response = scan($dir);
 
 
